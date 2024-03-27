@@ -1,0 +1,877 @@
+1: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 01 00 00 00 08 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 44                                                D
+
+2: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+3: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+4: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 02 00 00 00 01 01 00  00 00 00 00 00 00 00 00  ................
+00000010: 49                                                I
+
+5: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 12 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 3B                                                ;
+
+6: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+7: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 0E 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 3F                                                ?
+
+8: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 07 00 00 02 04 05 50  02 53 00 00 00 00 00 00  .......P.S......
+00000010: 96                                                .
+
+9: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 07 00 00 0C 0A 07 07  00 47 0F 0F 00 37 1F 1F  .........G...7..
+00000010: 48                                                H
+
+10: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 07 00 00 16 0A 00 17  3F 3F 00 D7 7F 7F 00 57  ........??.....W
+00000010: 65                                                e
+
+11: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+12: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 07 00 00 00 02 08 4D  00 00 00 00 00 00 00 00  .......M........
+00000010: EF                                                .
+
+13: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+14: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 07 00 00 0A 02 01 54  00 00 00 00 00 00 00 00  .......T........
+00000010: E5                                                .
+
+15: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+16: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 07 00 00 B1 02 00 55  00 00 00 00 00 00 00 00  .......U........
+00000010: 3E                                                >
+
+17: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+18: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 07 00 00 AF 02 00 55  00 00 00 00 00 00 00 00  .......U........
+00000010: 40                                                @
+
+19: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+20: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 07 00 00 AB 02 01 54  00 00 00 00 00 00 00 00  .......T........
+00000010: 44                                                D
+
+21: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+22: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 07 00 00 B9 02 01 54  00 00 00 00 00 00 00 00  .......T........
+00000010: 36                                                6
+
+23: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+24: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 07 00 00 A9 02 08 4D  00 00 00 00 00 00 00 00  .......M........
+00000010: 46                                                F
+
+25: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 07 00 00 52 02 01 54  00 00 00 00 00 00 00 00  ....R..T........
+00000010: 9D                                                .
+
+26: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 07 00 00 4C 02 02 53  00 00 00 00 00 00 00 00  ....L..S........
+00000010: A3                                                .
+
+27: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 07 00 00 50 02 03 52  00 00 00 00 00 00 00 00  ....P..R........
+00000010: 9F                                                .
+
+28: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+29: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 08 00 00 60 04 00 00  00 00 00 00 00 00 00 00  ....`...........
+00000010: E1                                                .
+
+30: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+31: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 08 00 00 64 04 00 00  00 00 00 00 00 00 00 00  ....d...........
+00000010: DD                                                .
+
+32: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+33: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 08 00 00 68 04 00 00  00 00 00 00 00 00 00 00  ....h...........
+00000010: D9                                                .
+
+34: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+35: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 08 00 00 6C 04 00 00  00 00 00 00 00 00 00 00  ....l...........
+00000010: D5                                                .
+
+36: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+37: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 08 00 00 70 04 00 00  00 00 00 00 00 00 00 00  ....p...........
+00000010: D1                                                .
+
+38: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+39: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 08 00 00 74 04 00 00  00 00 00 00 00 00 00 00  ....t...........
+00000010: CD                                                .
+
+40: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+41: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 17 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 36                                                6
+
+42: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+43: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 04 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 49                                                I
+
+44: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+45: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 04 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 49                                                I
+
+46: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+47: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 04 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 49                                                I
+
+48: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+49: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 04 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 49                                                I
+
+50: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 07 00 00 02 04 05 50  02 53 00 00 00 00 00 00  .......P.S......
+00000010: 96                                                .
+
+51: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 07 00 00 0C 0A 07 07  00 47 0F 0F 00 37 1F 1F  .........G...7..
+00000010: 48                                                H
+
+52: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 07 00 00 16 0A 00 17  3F 3F 00 D7 7F 7F 00 57  ........??.....W
+00000010: 65                                                e
+
+53: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+54: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 17 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 36                                                6
+
+55: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+56: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 04 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 49                                                I
+
+57: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+58: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 04 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 49                                                I
+
+59: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+60: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 04 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 49                                                I
+
+61: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+62: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 04 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 49                                                I
+
+63: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+64: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 04 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 49                                                I
+
+65: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+66: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 04 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 49                                                I
+
+67: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+68: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 04 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 49                                                I
+
+69: 260d:1114 [0x00 OUT] (CONTROL) actual length = 17, buffer length = 17
+<SET_CONFIGURATION> wValue: 0x0208 wIndex: 0x0001 Dir=OUT Type=Class Recipient=Interface
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+
+0A->0A 0A->14 0A->1E 0A->28 0A->32 0A->3C 0A->
+
+70: - 89
+
+00000000: 08 04 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 49                                                I
+
+71:  
+ 
+00000000: 08 08 00 00 00 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 3B                                                ;
+
+72:  
+ 
+00000000: 08 08 00 00 0A 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 31                                                1
+
+73:  
+ 
+00000000: 08 08 00 00 14 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 27                                                '
+
+74:  
+ 
+00000000: 08 08 00 00 1E 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 1D                                                .
+
+75:  
+ 
+00000000: 08 08 00 00 28 0A 00 00  00 00 00 00 00 00 00 00  ....(...........
+00000010: 13                                                .
+
+76:  
+ 
+00000000: 08 08 00 00 32 0A 00 00  00 00 00 00 00 00 00 00  ....2...........
+00000010: 09                                                .
+
+77:  
+ 
+00000000: 08 08 00 00 3C 0A 00 00  00 00 00 00 00 00 00 00  ....<...........
+00000010: FF  
+
+78:  
+ 
+00000000: 08 08 00 00 46 0A 00 00  00 00 00 00 00 00 00 00  ....F...........
+00000010: F5                                                .
+
+79:  
+ 
+00000000: 08 08 00 00 50 0A 00 00  00 00 00 00 00 00 00 00  ....P...........
+00000010: EB                                                .
+
+80:  
+ 
+00000000: 08 08 00 00 5A 0A 00 00  00 00 00 00 00 00 00 00  ....Z...........
+00000010: E1                                                .
+
+81:  
+ 
+00000000: 08 08 00 00 64 0A 00 00  00 00 00 00 00 00 00 00  ....d...........
+00000010: D7                                                .
+
+82:  
+ 
+00000000: 08 08 00 00 6E 0A 00 00  00 00 00 00 00 00 00 00  ....n...........
+00000010: CD                                                .
+
+83:  
+ 
+00000000: 08 08 00 00 78 0A 00 00  00 00 00 00 00 00 00 00  ....x...........
+00000010: C3                                                .
+
+84:  
+ 
+00000000: 08 08 00 00 82 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: B9                                                .
+
+85:  
+ 
+00000000: 08 08 00 00 8C 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: AF                                                .
+
+86:  
+ 
+00000000: 08 08 00 00 96 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: A5                                                .
+
+87:  
+ 
+00000000: 08 08 00 00 A0 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 9B                                                .
+
+88:  
+ 
+00000000: 08 08 00 00 AA 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 91                                                .
+
+89:  
+ 
+00000000: 08 08 00 00 B4 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 87                                                .
+
+90:  
+ 
+00000000: 08 08 00 00 BE 03 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 84                                                .
+
+91:  
+ 
+00000000: 08 08 00 01 00 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 3A                                                :
+
+92:  
+ 
+00000000: 08 08 00 01 0A 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 30                                                0
+
+93:  
+ 
+00000000: 08 08 00 01 14 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 26                                                &
+
+94:  
+ 
+00000000: 08 08 00 01 1E 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 1C                                                .
+
+95:  
+ 
+00000000: 08 08 00 01 28 0A 00 00  00 00 00 00 00 00 00 00  ....(...........
+00000010: 12                                                .
+
+96:  
+ 
+00000000: 08 08 00 01 32 0A 00 00  00 00 00 00 00 00 00 00  ....2...........
+00000010: 08                                                .
+
+97:  
+ 
+00000000: 08 08 00 01 3C 0A 00 00  00 00 00 00 00 00 00 00  ....<...........
+00000010: FE                                                .
+
+98:  
+ 
+00000000: 08 08 00 01 46 0A 00 00  00 00 00 00 00 00 00 00  ....F...........
+00000010: F4                                                .
+
+99:  
+ 
+00000000: 08 08 00 01 50 0A 00 00  00 00 00 00 00 00 00 00  ....P...........
+00000010: EA                                                .
+
+100:  
+ 
+00000000: 08 08 00 01 5A 0A 00 00  00 00 00 00 00 00 00 00  ....Z...........
+00000010: E0                                                .
+
+101:  
+ 
+00000000: 08 08 00 01 64 0A 00 00  00 00 00 00 00 00 00 00  ....d...........
+00000010: D6                                                .
+
+102:  
+ 
+00000000: 08 08 00 01 6E 0A 00 00  00 00 00 00 00 00 00 00  ....n...........
+00000010: CC                                                .
+
+103:  
+ 
+00000000: 08 08 00 01 78 0A 00 00  00 00 00 00 00 00 00 00  ....x...........
+00000010: C2                                                .
+
+104:  
+ 
+00000000: 08 08 00 01 82 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: B8                                                .
+
+105:  
+ 
+00000000: 08 08 00 01 8C 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: AE                                                .
+
+106:  
+ 
+00000000: 08 08 00 01 96 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: A4                                                .
+
+107:  
+ 
+00000000: 08 08 00 01 A0 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 9A                                                .
+
+108:  
+ 
+00000000: 08 08 00 01 AA 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 90                                                .
+
+109:  
+ 
+00000000: 08 08 00 01 B4 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 86                                                .
+
+110:  
+ 
+00000000: 08 08 00 01 BE 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 7C                                                |
+
+111:  
+ 
+00000000: 08 08 00 01 C8 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 72                                                r
+
+112:  
+ 
+00000000: 08 08 00 01 D2 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 68                                                h
+
+113:  
+ 
+00000000: 08 08 00 01 DC 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 5E                                                ^
+
+114:  
+ 
+00000000: 08 08 00 01 E6 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 54                                                T
+
+115:  
+ 
+00000000: 08 08 00 01 F0 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+116:  
+ 
+00000000: 08 08 00 01 FA 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 40                                                @
+
+117:  
+ 
+00000000: 08 08 00 02 04 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 35                                                5
+
+118:  
+ 
+00000000: 08 08 00 02 0E 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 2B                                                +
+
+119:  
+ 
+00000000: 08 08 00 02 18 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 21                                                !
+
+120:  
+ 
+00000000: 08 08 00 02 22 0A 00 00  00 00 00 00 00 00 00 00  ...."...........
+00000010: 17                                                .
+
+121:  
+ 
+00000000: 08 08 00 02 2C 0A 00 00  00 00 00 00 00 00 00 00  ....,...........
+00000010: 0D                                                .
+
+122:  
+ 
+00000000: 08 08 00 02 36 0A 00 00  00 00 00 00 00 00 00 00  ....6...........
+00000010: 03                                                .
+
+123:  
+ 
+00000000: 08 08 00 02 40 0A 00 00  00 00 00 00 00 00 00 00  ....@...........
+00000010: F9                                                .
+
+124:  
+ 
+00000000: 08 08 00 02 4A 0A 00 00  00 00 00 00 00 00 00 00  ....J...........
+00000010: EF                                                .
+
+125:  
+ 
+00000000: 08 08 00 02 54 0A 00 00  00 00 00 00 00 00 00 00  ....T...........
+00000010: E5                                                .
+
+126:  
+ 
+00000000: 08 08 00 02 5E 0A 00 00  00 00 00 00 00 00 00 00  ....^...........
+00000010: DB                                                .
+
+127:  
+ 
+00000000: 08 08 00 02 68 0A 00 00  00 00 00 00 00 00 00 00  ....h...........
+00000010: D1                                                .
+
+128:  
+ 
+00000000: 08 08 00 02 72 0A 00 00  00 00 00 00 00 00 00 00  ....r...........
+00000010: C7                                                .
+
+129:  
+ 
+00000000: 08 08 00 02 7C 0A 00 00  00 00 00 00 00 00 00 00  ....|...........
+00000010: BD                                                .
+
+130:  
+ 
+00000000: 08 08 00 02 86 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: B3                                                .
+
+131:  
+ 
+00000000: 08 08 00 02 90 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: A9                                                .
+
+132:  
+ 
+00000000: 08 08 00 02 9A 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 9F                                                .
+
+133:  
+ 
+00000000: 08 08 00 02 A4 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 95                                                .
+
+134:  
+ 
+00000000: 08 08 00 02 AE 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 8B                                                .
+
+135:  
+ 
+00000000: 08 08 00 02 B8 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 81                                                .
+
+136:  
+ 
+00000000: 08 08 00 02 C2 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 77                                                w
+
+137:  
+ 
+00000000: 08 08 00 02 CC 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 6D                                                m
+
+138:  
+ 
+00000000: 08 08 00 02 D6 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 63                                                c
+
+139:  
+ 
+00000000: 08 08 00 02 E0 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 59                                                Y
+
+140:  
+ 
+00000000: 08 08 00 00 00 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 3B                                                ;
+
+141:  
+ 
+00000000: 08 08 00 00 0A 02 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 39                                                9
+
+142:  
+ 
+00000000: 08 08 00 00 0C 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 2F                                                /
+
+143:  
+ 
+00000000: 08 08 00 00 16 0A 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 25                                                %
+
+144:  
+ 
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+145:  
+ 
+00000000: 08 08 00 00 60 04 00 00  00 00 00 00 00 00 00 00  ....`...........
+00000010: E1                                                .
+
+146:  
+ 
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+147:  
+ 
+00000000: 08 08 00 00 64 04 00 00  00 00 00 00 00 00 00 00  ....d...........
+00000010: DD                                                .
+
+148:  
+ 
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+149:  
+ 
+00000000: 08 08 00 00 68 04 00 00  00 00 00 00 00 00 00 00  ....h...........
+00000010: D9                                                .
+
+150:  
+ 
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+151:  
+ 
+00000000: 08 08 00 00 6C 04 00 00  00 00 00 00 00 00 00 00  ....l...........
+00000010: D5                                                .
+
+152:  
+ 
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+153:  
+ 
+00000000: 08 08 00 00 70 04 00 00  00 00 00 00 00 00 00 00  ....p...........
+00000010: D1                                                .
+
+154:  
+ 
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+155:  
+ 
+00000000: 08 08 00 00 74 04 00 00  00 00 00 00 00 00 00 00  ....t...........
+00000010: CD                                                .
+
+156:  
+ 
+00000000: 08 07 00 00 02 04 05 50  02 53 00 00 00 00 00 00  .......P.S......
+00000010: 96                                                .
+
+157:  
+ 
+00000000: 08 07 00 00 0C 0A 07 07  00 47 0F 0F 00 37 1F 1F  .........G...7..
+00000010: 48                                                H
+
+158:  
+ 
+00000000: 08 07 00 00 16 0A 00 17  3F 3F 00 D7 7F 7F 00 57  ........??.....W
+00000010: 65                                                e
+
+159:  
+ 
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+160:  
+ 
+00000000: 08 07 00 00 00 02 08 4D  00 00 00 00 00 00 00 00  .......M........
+00000010: EF                                                .
+
+161:  
+ 
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+162:  
+ 
+00000000: 08 07 00 00 0A 02 01 54  00 00 00 00 00 00 00 00  .......T........
+00000010: E5                                                .
+
+163:  
+ 
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+164:  
+ 
+00000000: 08 07 00 00 B1 02 00 55  00 00 00 00 00 00 00 00  .......U........
+00000010: 3E                                                >
+
+165:  
+ 
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+166:  
+ 
+00000000: 08 07 00 00 AF 02 00 55  00 00 00 00 00 00 00 00  .......U........
+00000010: 40                                                @
+
+167:  
+ 
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+168:  
+ 
+00000000: 08 07 00 00 AB 02 01 54  00 00 00 00 00 00 00 00  .......T........
+00000010: 44                                                D
+
+169:  
+ 
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+170:  
+ 
+00000000: 08 07 00 00 B9 02 01 54  00 00 00 00 00 00 00 00  .......T........
+00000010: 36                                                6
+
+171:  
+ 
+00000000: 08 03 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+00000010: 4A                                                J
+
+172:  
+ 
+00000000: 08 07 00 00 A9 02 08 4D  00 00 00 00 00 00 00 00  .......M........
+00000010: 46                                                F
+
+173:  
+ 
+00000000: 08 07 00 00 52 02 01 54  00 00 00 00 00 00 00 00  ....R..T........
+00000010: 9D                                                .
+
+174:  
+ 
+00000000: 08 07 00 00 4C 02 02 53  00 00 00 00 00 00 00 00  ....L..S........
+00000010: A3                                                .
+
+175:  
+ 
+00000000: 08 07 00 00 50 02 03 52  00 00 00 00 00 00 00 00  ....P..R........
+00000010: 9F
